@@ -21,6 +21,7 @@ Jeweler::Tasks.new do |gem|
   gem.description = %Q{Use the ms-dropdown (select dropdown with icons) in your Rails project :)}
   gem.email = "kmandrup@gmail.com"
   gem.authors = ["Kristian Mandrup"]
+  gem.version = '0.1.1'
   # dependencies defined in Gemfile
 end
 Jeweler::RubygemsDotOrgTasks.new
